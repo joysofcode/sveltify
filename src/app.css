@@ -1,0 +1,33 @@
+:root {
+  --tooltip-bg: hsl(220, 10%, 20%);
+  --tooltip-clr: hsl(220, 10%, 98%);
+  --tooltip-padding: 8px;
+  --tooltip-rounded: 4px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: grid;
+  place-content: center;
+  font-family: sans-serif;
+  color: hsl(220 10% 98%);
+  background-color: hsl(220 10% 10%);
+  overflow: hidden;
+}
+
+button {
+  padding: 1rem;
+  margin-right: 1rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: inherit;
+  background-color: hsl(220 10% 20%);
+  border: 2px solid hsl(220 10% 21%);
+  border-radius: 0.4rem;
+  text-shadow: 1px 1px 1px hsl(220 10% 10%);
+  cursor: pointer;
+}
