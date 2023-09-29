@@ -29,7 +29,7 @@
     & a {
       padding: 0.5rem;
       color: inherit;
-      background-color: hsl(220, 10%, 10%);
+      background-color: hsl(220 10% 10%);
       border-radius: 4px;
       text-decoration: none;
       transition: color 0.3s ease;

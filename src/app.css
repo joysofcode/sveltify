@@ -1,6 +1,6 @@
 :root {
-  --tooltip-bg: hsl(220, 10%, 20%);
-  --tooltip-clr: hsl(220, 10%, 98%);
+  --tooltip-bg: hsl(220 10% 20%);
+  --tooltip-clr: hsl(220 10% 98%);
   --tooltip-padding: 8px;
   --tooltip-rounded: 4px;
 }
