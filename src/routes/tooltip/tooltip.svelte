@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { computePosition, offset, type ComputePositionConfig } from '@floating-ui/dom'
+  import { computePosition, offset } from '@floating-ui/dom'
 
   // get reference to dom elements
   let buttonEl: HTMLButtonElement
